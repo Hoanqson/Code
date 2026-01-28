@@ -13,7 +13,7 @@ PLAYGROUND_XPATH = '//*[@id="app"]/div/div[1]/div[2]/div/div/div/div[1]/div[3]/b
 
 SSHX_CMD = "!curl -sSf https://sshx.io/get | sh -s run"
 
-LAP = 3
+LAP = 5
 
 YOUR_NAME = "hoanqson"
 TEXT_TO_PASTE = (
