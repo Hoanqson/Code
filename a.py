@@ -3,7 +3,7 @@ import requests
 import sys
 
 # ================== CONFIG ==================
-PROXY_API = "https://api.zingproxy.com/getProxy"  # thay URL thật của bạn
+PROXY_API = "https://api.zingproxy.com/open/get-proxy/d2o115o0zpq3ded62ccec98c681d59ca4629f6dd30cfa6f911be335"  # thay URL thật của bạn
 PROXY_DELAY = 240  # giây
 IP_CHECK_API = "https://api.ipify.org?format=json"
 TIMEOUT = 15
